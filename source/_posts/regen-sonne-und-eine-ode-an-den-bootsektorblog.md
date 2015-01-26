@@ -1,0 +1,22 @@
+title: Regen... Sonne... und eine Ode an den Bootsektorblog
+tags:
+  - life
+  - teufel
+  - soundsystem
+  - sublab
+categories:
+  - Life
+date: 2008-07-19 15:13:07
+---
+
+Was fuer ein wunderschoener Tag mir da durch die beiden RL-Monitore meiner **[Wohneinheit](http://de.wikipedia.org/wiki/Wohneinheit_(Le_Corbusier) "Wikipedia - Wohneinheit nach LeCorbusier")** dargestellt wird.
+
+Vorallem aber ist dieser Tag unproduktiv - jedenfalls bisher. Außer den hygienischen Grundbeduerfnissen und der Koffein-Sucht habe ich heute noch keiner wirklich sinnvollen Taetigkeit gefroehnt. Dabei steht so vieles zur Wahl: Lernen! Aufraeumen! Abwaschen! Blogartikel schreiben, die Leute auch interessieren!
+
+Aber erstmal was - fuer alle Konsumbegeisterten - erfreulicheres. Ich habe gestern eine Bestellung empfangen. Dafuer waren auch nur laecherliche sieben Versuche noetig. Ja, solche wunderbaren logistischen Vorteile geniesst man nur hier bei uns, wo auf eine einzige Hausnummer mehrere hundert oder gar tausend Wohnungen kommen. Aber nun hab ich sie endlich... meine **[Teufel Concept E Magnum Power Edition (tm) (c) (p) (wtf?)](http://www.teufel.de/de/PC-Systeme/Concept-E-Magnum.cfm "Teufel Soundsystem CEM PE")** ... Ab heute gibt es nur noch Schall oberster Guete in dieser **[WohnSchachtel](http://www.fotouristen.de/foto/29579/large/ "WohnSchachtel")**! Passend dazu habe ich mir auch gleich den aktuellsten Soundtreiber gegoennt. **[Schließlich benutzt man ja auch mal Windows](http://www.linuxdevcenter.com/pub/a/linux/2001/11/15/learnunixos.html "Use A CMDLINE!")**. Ich musste auch nur dreimal neu starten und jegliche Soundeinstellungen die ich mir in aufwaendigen Langzeiterfahrungstests erarbeitete neu konfigurieren. [**Das nenne ich Kompfort**!](http://www.winluxboard.de/showthread.php?t=5991 "Ist Linux wirklich so schwer?") Inzwischen geniesse ich die neue Luftdruckvielfalt. Und da bisher niemand aus der hochgeliebten Nachbarschaft einen Antrag auf **[Laermbelaestigungsunterlassung](http://www.google.com/search?q=L%E4rmbel%E4stigungsunterlassung "Ha! Das kennt nichtmal Google!")** bei mir einreichte, probier ich noch ein weiteres mal meine neue Fernbedienung aus. Meine bescheidenen Meinung nach sind Antraege sowieso **[oftmals nonsens](http://www.berlin.de/imperia/md/content/balichtenberghohenschoenhausen/wirtschaft/antraege/ballonfaxantrag.pdf "Antrag Massenaufstieg von Luftballons")**.
+
+Uebrigens wurde ich gestern des **[Mordes](http://de.wikipedia.org/wiki/Mord "Wikipedia - Mord")** bezichtet. Ein Zitat im **[Sublab](http://www.sublab.org "Sublab")**-**[MUC](http://de.wikipedia.org/wiki/Multi-User_Chat "Wikipedia - Multi-User-Chat")** dazu:
+> neues leben in deiner wohnung und das einzige was dir einfiehl war es zu vernichten... lasst uns eine minute idlen
+Das **[_neue Leben_](http://de.wikipedia.org/wiki/Silberfischchen "Wikipedia - Silberfischchen")** in meiner bescheidenen Huette existiert vermutlich schon seit dreihundert Millionen Jahren und jegliche Versuche einer Einigung auf diplomatischem Wege scheiterten. **[<del datetime="2009-05-06T18:31:53+00:00">In</del>Im Zweifel also gegen den Angeklagten!](http://www.spiegel.de/politik/ausland/0,1518,419716,00.html "Haditha-Massaker... so nennt es SpiegelOnline")** Wir wollen schließlich nicht vergessen, was wir durch unsere **[guten diplomatischen Beziehungen zur noerdlichen Haelfte des Amerikanischen Kontinents](http://www.youtube.com/watch?v=36Kt5loB8g4 "Bush&amp;Merkel")** alles gelernt haben!
+
+So nun aber genug der Ablenkung von den **[eigentlichen Problemen](http://www.ads-hyperaktivitaet.de/FAQ/AlltagsTipps_/Zimmer_aufraumen/unordnung-4ue-ei.gif)**. **[Schließlich](http://www.bootsektorblog.de/2008/04/copyright-ein-k.html) _[haben](http://www.bootsektorblog.de/2008/04/stop-motion-ret.html)_ [wir](http://www.bootsektorblog.de/2008/05/die-emo-industr.html#more) _[genug ](http://www.bootsektorblog.de/2008/05/die-2-girls-1-c.html)_[Dinge](http://www.bootsektorblog.de/2008/05/total-berwachun.html) _[ueber](http://www.bootsektorblog.de/2008/05/microsoft-und-d.html)_ [die](http://www.bootsektorblog.de/2008/06/terror-wieder-m.html) _[wir](http://www.bootsektorblog.de/2008/06/achtung-meta-vi.html)_ [uns](http://www.bootsektorblog.de/2008/06/online-hausfrau.html) _[Aufregen](http://www.bootsektorblog.de/2008/07/mixtape-20.html)_ [koennen](http://www.bootsektorblog.de/2008/07/copyright-erset.html)**.

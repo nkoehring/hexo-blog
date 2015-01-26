@@ -1,0 +1,17 @@
+{
+  "name": "hexo-site",
+  "version": "2.8.3",
+  "private": true,
+  "dependencies": {
+    "hexo-migrator-rss": "*",
+    "hexo-migrator-wordpress": "*",
+    "hexo-generator-feed": "*",
+    "hexo-renderer-stylus": "*",
+    "hexo-renderer-marked": "*",
+    "hexo-renderer-jade": "*",
+    "hexo-renderer-less": "*",
+    "hexo-renderer-coffeescript": "*",
+    "hexo-migrator-swslog": "*",
+    "hexo-webui": "git://github.com/tommy351/hexo-webui.git"
+  }
+}
