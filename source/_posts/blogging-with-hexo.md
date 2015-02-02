@@ -7,7 +7,7 @@ tags:
     - javascript
     - nodejs
 categories:
-    - weblog
+    - Weblog
 ---
 
 Welcome to my new hexo blog!
