@@ -1,5 +1,4 @@
-title: Mail sucks
-date: 2015-02-01 20:23:42
+title: Mail (still) sucks
 tags:
   - mail
   - web
