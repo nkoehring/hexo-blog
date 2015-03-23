@@ -1,7 +1,12 @@
 title: "random name jam"
 date: 2015-03-19 13:58:48
 tags:
+  - programming
+  - games
+  - tech
+  - randomnamejam
 categories:
+  - Games
 ---
 
 
