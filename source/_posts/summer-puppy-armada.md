@@ -1,7 +1,12 @@
 title: "Summer Puppy Armada"
 date: 2015-03-23 15:09:00
 tags:
+  - programming
+  - games
+  - tech
+  - randomnamejam
 categories:
+  - Games
 ---
 
 
