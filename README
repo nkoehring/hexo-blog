@@ -5,7 +5,7 @@ blog.
 
 Then you can just do:
 
-``` sh
+```sh
 cd hexo-blog
 npm install && ./node_modules/.bin/hexo g && ./node_modules/.bin/hexo s
 ```
